@@ -1,0 +1,10 @@
+MIDlet-1: Rice App Store,/app_icon.png,main.Main
+MIDlet-Description: Rice App Store Client
+MIDlet-Jar-Size: 148775
+MIDlet-Jar-URL: RiceStore.jar
+MIDlet-Name: Rice App Store
+MIDlet-Permissions: javax.microedition.io.Connector.http
+MIDlet-Vendor: NCCC Studio
+MIDlet-Version: 1.0.95
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.0
